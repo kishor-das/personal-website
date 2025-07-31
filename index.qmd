@@ -1,0 +1,25 @@
+---
+title: "Kishor Das"
+subtitle: "Data Scientist | Statistician"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: profile.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/kishor-das
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kishor-das/
+---
+
+A little bit about me and my life.
+
+## Education
+
+University of XYZ, City \| Location \| Sept 20XX - June 20XX
+
+## Experience
+
+Workplace \| Job title \| April 20XX - present
